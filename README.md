@@ -14,6 +14,10 @@ pip install folium
 *pandas
 
 ### Running<br>
-Firstly, fun python files. After it open html files and they will show maps on localhost.
+Open html files and they will show maps on localhost.
 
+### Dealers map Outcome
+![Map Example](Locations.png)
+
+### Heatmap map Outcome
 ![Map Example](Heatmap.png)
