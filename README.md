@@ -16,4 +16,4 @@ pip install folium
 ### Running<br>
 Firstly, fun python files. After it open html files and they will show maps on localhost.
 
-![Map Example](/Desktop/Screenshot 2020-01-17 at 14.22.48)
+![Map Example](Heatmap.png)
