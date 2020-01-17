@@ -6,12 +6,12 @@ You can find two html files, which will show heatmap and dealers locations in Ge
 dealers_map.html will show dealers locations in Georgia, US.<br> 
 heatmap.html is a heatmap for dealers locations.
 
-###Prerequisites
+### Prerequisites
 
 
-###Libraries<br>
+### Libraries<br>
 *folium<br>
 *pandas
 
-###Running<br>
+### Running<br>
 Open html files and they will show maps on localhost.
